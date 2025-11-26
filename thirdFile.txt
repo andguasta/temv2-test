@@ -4,4 +4,11 @@ dsuajdsoaihjdai
 new file content
 
 
+<<<<<<< HEAD
 AAAAAAA
+=======
+New feature
+
+
+ankjdnsakdnsak
+>>>>>>> origin/master
